@@ -1,6 +1,6 @@
 # Ionic 5 With SQLite Storage Plugin – `CRUD`
 
-Dalam praktikum ke - 03 ini, kita akan belajar cara menggunakan penyimpanan SQLite dalam aplikasi Ionic menggunakan plugin [cordova-sqlite-storage](https://ionicframework.com/docs/native/sqlite). 
+Dalam pertemuan ke - 03 ini, kita akan belajar cara menggunakan penyimpanan SQLite dalam aplikasi Ionic menggunakan plugin [cordova-sqlite-storage](https://ionicframework.com/docs/native/sqlite). 
 
 Jenis penyimpanan SQLite digunakan oleh sebagian besar perangkat Asli seperti android/iOs. Ini adalah sistem manajemen basis data relasional yang tersedia di perangkat itu sendiri untuk menyimpan data lokal di perangkat. 
 
