@@ -15,7 +15,7 @@ Tetapi umumnya data yang disimpan di *localStorage* ini akan tetap ada hingga ap
 OK!, Lanjut Praktikum...... 🤩
 
 - [Ionic 5 With SQLite Storage Plugin – `CRUD`](#ionic-5-with-sqlite-storage-plugin--crud)
-- [STEP 1: Configure Ionic Environment](#step-1-configure-ionic-environment)
+- [Step 1: Configure Ionic Environment](#step-1-configure-ionic-environment)
 - [Step 2: Update Routes](#step-2-update-routes)
 - [Step 3: Install SQLite Plugin](#step-3-install-sqlite-plugin)
 - [Step 4: Update App Module Class](#step-4-update-app-module-class)
