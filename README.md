@@ -7,7 +7,7 @@
 <a href="#"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IF4008/PAPK-T5E"></a>
 </p>
 
-- `03` [Ionic CRUD With SQLite Plugin](https://bit.ly/2X35ykO) 🔥
+- `03` [Ionic CRUD With SQLite Plugin](https://github.com/IF4008/panduan-praktikum/blob/main/03_Ionic%20CRUD%20With%20SQLite%20Plugin.md) 🔥
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
