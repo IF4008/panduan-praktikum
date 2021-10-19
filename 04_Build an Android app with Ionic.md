@@ -15,7 +15,7 @@ Tapi disini saya akan bahas terlebih dahulu sesuai dokumentasi resmi ionic ya. â
 - [Step 1: Install Android studio in the system :](#step-1-install-android-studio-in-the-system-)
 - [Step 2: Setup _environment variable_ pada sistem.](#step-2-setup-environment-variable-pada-sistem)
 - [Step 3: Generate APK dari Ionic project](#step-3-generate-apk-dari-ionic-project)
-    - [Ok, Yang terakhir?](#ok-yang-terakhir)
+- [Ok, Yang terakhir?](#ok-yang-terakhir)
 - [Conclusion](#conclusion)
 - [Referensi](#referensi)
 
@@ -190,7 +190,7 @@ Mari kita bahasâ€¦
 
 Begitulah cara menggunakan gradle untuk project di ionic.
 
-#### Ok, Yang terakhir?
+## Ok, Yang terakhir?
 
 Kita akan langsung build ke `android platform`. yang nantinya akan `menggenerate APK` files. Gunakan perintah berikut:
 
