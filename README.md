@@ -8,6 +8,7 @@
 </p>
 
 - [X] `03` [Ionic CRUD With SQLite Plugin](https://github.com/IF4008/panduan-praktikum/blob/main/03_Ionic%20CRUD%20With%20SQLite%20Plugin.md)
-- [X] `04` [04_Build an Android app with Ionic](https://bit.ly/3G1O9KV) 🔥
+- [X] `04` [Build an Android app with Ionic](https://bit.ly/3G1O9KV)
+- [x] `05` [Tugas Terstruktur](https://github.com/IF4008/panduan-praktikum/blob/main/05_Tugas%20Terstruktur.md) 🔥
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
