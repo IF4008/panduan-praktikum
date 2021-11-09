@@ -8,7 +8,7 @@ Temen-temen masih ingat ga? 🤔
 
 Pada saat run project di dev server kita tidak bisa melakukan proses CRUD tersebut. 😔
 
-Di Praktikum Ke-06 ini kita akan coba deploy project ionic yang sebelumnya kita buat ke `browser platform` dengan menggunakan plugin [Cordova-Browser](https://www.npmjs.com/package/cordova-browser). Yang nantinya dapat menjalankan dan men-debug aplikasi menggunakan browser web tanpa harus penerapan ke `real device` atau `emulator`.
+Pada Praktikum Ke-06 ini kita akan coba deploy project ionic yang sebelumnya kita buat ke `browser platform` dengan menggunakan plugin [Cordova-Browser](https://www.npmjs.com/package/cordova-browser). Yang nantinya dapat menjalankan dan men-debug aplikasi menggunakan browser web tanpa harus penerapan ke `real device` atau `emulator`.
 
 *let's get started ..* 
 
