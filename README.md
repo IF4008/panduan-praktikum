@@ -10,6 +10,7 @@
 - [X] `03` [Ionic CRUD With SQLite Plugin](https://github.com/IF4008/panduan-praktikum/blob/main/03_Ionic%20CRUD%20With%20SQLite%20Plugin.md)
 - [X] `04` [Build an Android app with Ionic](https://bit.ly/3G1O9KV)
 - [x] `05` [Tugas Terstruktur](https://github.com/IF4008/panduan-praktikum/blob/main/05_Tugas%20Terstruktur.md)
-- [x] `06` [Test Browser targeted deployment Ionic](https://bit.ly/3bSPoyt) 🔥
+- [x] `06` [Test Browser targeted deployment Ionic](https://bit.ly/3bSPoyt)
+- [x] `07` [Integrating Slim Framework and MySQL with ionic](#) 🔥
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
