@@ -16,7 +16,7 @@ What we'll be building?
 Kita akan membuat produk penjualan sederhana, di mana pengguna dapat memasukkan informasi produk seperti judul, qty, dan harga.
 untuk bagian backend/webservice kita akan menggunakan Micro framework for PHP yaitu [Slim](https://www.slimframework.com) dan untuk databasenya menggunakan MySQL.
 
-Untuk panduan praktikum saya bagi menjadi 4 bagian biar temen-temen mudah memahami dan juga tidak terburu-buru untuk mempelajarinya 😆 dan mudah-mudahan saya gak terlalu sibuk juga 🥺. jadi untuk part praktikum selanjutnya saya akan buat video.
+Untuk panduan praktikum saya bagi menjadi 4 bagian.
 
 ## Step 1: Setup Database
 
