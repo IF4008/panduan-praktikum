@@ -2,7 +2,7 @@
 
 Sebelum lanjut ke praktikum silahkan temen-temen simak dulu sedikit INTRO materi yang akan kita pelajari sekarang. 🎥
 
-[![Intro](https://res.cloudinary.com/marcomontalbano/image/upload/v1638341647/video_to_markdown/images/youtube--wjJT80L7hXU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/wjJT80L7hXU "Intro")
+[![intro papk 8](https://res.cloudinary.com/marcomontalbano/image/upload/v1639575563/video_to_markdown/images/youtube--wjJT80L7hXU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/wjJT80L7hXU "intro papk 8")
 
 - [Intergating Slim Framework and MySQL with Ionic](#intergating-slim-framework-and-mysql-with-ionic)
   - [Step 1: Setup Database](#step-1-setup-database)
