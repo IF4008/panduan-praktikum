@@ -1,4 +1,4 @@
-# Intergating Slim Framework and MySQL with Ionic
+# Integrating Slim Framework and MySQL with Ionic
 
 Sebelum lanjut ke praktikum silahkan temen-temen simak dulu sedikit INTRO materi yang akan kita pelajari sekarang. 🎥
 
